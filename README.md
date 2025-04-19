@@ -1,18 +1,25 @@
-🇫🇷 French Flashcards App
-A simple yet effective Python-based flashcard application to help users learn French vocabulary using Tkinter for GUI and Pandas for data handling.
+# 🇫🇷 French Flashcards App
 
-🧠 Features
-Flashcards display French words and flip to show their English translations.
+A Python-based flashcard app to help you master **French vocabulary**! Built using `tkinter` for the graphical interface and `pandas` for data handling, this app offers a smooth and engaging way to study and remember French words.
 
-User-friendly graphical interface built with tkinter.
+![App Screenshot](images/preview.png) <!-- Add an actual screenshot with this name for a visual preview -->
 
-Automatically tracks learned words and saves progress.
+---
 
-Uses CSV files for easy word list customization via pandas.
+## 📦 Features
 
-🛠️ Technologies Used
-Python 3
+- 🔁 Flashcards that flip between French and English
+- ⏱ Auto-flip timer after a few seconds
+- ✅ Track learned words – no repeats!
+- 🎨 Clean, interactive GUI using `tkinter`
+- 📊 CSV-based word list for easy customization
 
-Tkinter – for the graphical user interface
+---
 
-Pandas – for managing word lists and user progress
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/yourusername/french-flashcards.git
+cd french-flashcards
