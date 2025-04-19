@@ -2,7 +2,7 @@
 
 A Python-based flashcard app to help you master **French vocabulary**! Built using `tkinter` for the graphical interface and `pandas` for data handling, this app offers a smooth and engaging way to study and remember French words.
 
-![App Screenshot](images/preview.png) <!-- Add an actual screenshot with this name for a visual preview -->
+![App Screenshot](Screenshot (92).png) <!-- Add an actual screenshot with this name for a visual preview -->
 
 ---
 
